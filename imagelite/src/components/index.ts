@@ -1,2 +1,4 @@
 export { Template} from './Template'
-import { ImageCard } from './ImageCard'
+export { ImageCard } from './ImageCard'
+export { Button } from './button'
+export { InputText } from './input'
